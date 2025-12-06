@@ -57,5 +57,6 @@ I help startups and global companies build **fast, scalable, production-ready we
 - Focus on **user experience, performance, and reliability**  
 - Agile, **test-driven development** approach with results-oriented delivery  
 
-[![Watch the video](https://img.youtube.com/vi/qYzQ8pOFlhE/0.jpg)](https://www.youtube.com/watch?v=qYzQ8pOFlhE)
+▶️ Click to watch video:
 
+[![Watch My Introduction Video](https://img.youtube.com/vi/qYzQ8pOFlhE/0.jpg)](https://www.youtube.com/watch?v=qYzQ8pOFlhE)
