@@ -70,6 +70,3 @@ I help startups and enterprises build **fast, scalable, production-ready web, mo
 - Applying **spec-driven development** for reliable, production-grade AI features
 - Strong focus on **user experience, performance, and reliability**
 - Agile, **test-driven development** approach with results-oriented delivery
-
-▶️ Click to watch video:
-[![Watch My Introduction Video](https://img.youtube.com/vi/qYzQ8pOFlhE/0.jpg)](https://www.youtube.com/watch?v=qYzQ8pOFlhE)
